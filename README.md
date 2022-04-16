@@ -90,7 +90,7 @@ let message = await prepareWAMessageMedia({ video: fs.readFileSync('./media/menu
            hydratedButtons: [{           	
 ```
 ----           
-
+##[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/hafiszhfs/Hyzer-MD-V2)
 
 ## HOW TO CONNECT TO MONGODB WHEN RUN IN HEROKU
 
